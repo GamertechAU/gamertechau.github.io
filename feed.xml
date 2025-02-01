@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>GamertechAU</title>
-    <link href="https://gamertechau.github.io/feed.xml" rel="self" />
-    <link href="https://gamertechau.github.io" />
+    <link href="https://www.gamertechau.com/feed.xml" rel="self" />
+    <link href="https://www.gamertechau.com" />
     <updated>2025-01-31T18:57:31+11:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
-    <id>https://gamertechau.github.io</id>
+    <id>https://www.gamertechau.com</id>
 
     <entry>
         <title>Yakuza 3 Remastered</title>
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/yakuza-3-remastered/"/>
-        <id>https://gamertechau.github.io/posts/yakuza-3-remastered/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/40/Yakuza3Remastered.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/yakuza-3-remastered/"/>
+        <id>https://www.gamertechau.com/posts/yakuza-3-remastered/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/40/Yakuza3Remastered.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2025-01-31T18:25:56+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/40/Yakuza3Remastered.webp" alt="Game poster of Yakuza 3 Remastered showing a man in a white suit with red shirt looking upwards and a tall building in the background" />
+                        <img src="https://www.gamertechau.com/media/posts/40/Yakuza3Remastered.webp" alt="Game poster of Yakuza 3 Remastered showing a man in a white suit with red shirt looking upwards and a tall building in the background" />
                     Details Name Yakuza 3 Remastered Completed on 2025-01-31 Developers Ryu Ga Gotoku&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/40/Yakuza3Remastered.webp" class="type:primaryImage" alt="Game poster of Yakuza 3 Remastered showing a man in a white suit with red shirt looking upwards and a tall building in the background" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/40/Yakuza3Remastered.webp" class="type:primaryImage" alt="Game poster of Yakuza 3 Remastered showing a man in a white suit with red shirt looking upwards and a tall building in the background" /></p>
                 <h2>Details</h2>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
 <tbody>
@@ -66,21 +66,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/cat-detective-albert-wilde/"/>
-        <id>https://gamertechau.github.io/posts/cat-detective-albert-wilde/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/39/CatDetectiveAlbertWilde.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/cat-detective-albert-wilde/"/>
+        <id>https://www.gamertechau.com/posts/cat-detective-albert-wilde/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/39/CatDetectiveAlbertWilde.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2025-01-27T17:09:21+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/39/CatDetectiveAlbertWilde.webp" alt="Game poster of Cat Detective Albert Wilde with an anthropomorphic cat kneeling in front of a yellow background" />
+                        <img src="https://www.gamertechau.com/media/posts/39/CatDetectiveAlbertWilde.webp" alt="Game poster of Cat Detective Albert Wilde with an anthropomorphic cat kneeling in front of a yellow background" />
                     Details Name Cat Detective Albert Wilde Completed on 2025-01-27 Developers beyondthosehills Publishers&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/39/CatDetectiveAlbertWilde.webp" class="type:primaryImage" alt="Game poster of Cat Detective Albert Wilde with an anthropomorphic cat kneeling in front of a yellow background" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/39/CatDetectiveAlbertWilde.webp" class="type:primaryImage" alt="Game poster of Cat Detective Albert Wilde with an anthropomorphic cat kneeling in front of a yellow background" /></p>
                 <h2>Details</h2>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
 <tbody>
@@ -117,21 +117,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/contraband-police/"/>
-        <id>https://gamertechau.github.io/posts/contraband-police/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/38/ContrabandPolice.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/contraband-police/"/>
+        <id>https://www.gamertechau.com/posts/contraband-police/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/38/ContrabandPolice.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2025-01-10T16:28:47+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/38/ContrabandPolice.webp" alt="Game poster of Contraband Police with checkpoint officer in yellow hi-vis holding stop hand up and red baton in front of a red and white checkpoint barrier and officers in the background arresting someone" />
+                        <img src="https://www.gamertechau.com/media/posts/38/ContrabandPolice.webp" alt="Game poster of Contraband Police with checkpoint officer in yellow hi-vis holding stop hand up and red baton in front of a red and white checkpoint barrier and officers in the background arresting someone" />
                     Details Name Contraband Police Completed on 2025-01-25 Developers Crazy Rocks Publishers PlayWay&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/38/ContrabandPolice.webp" class="type:primaryImage" alt="Game poster of Contraband Police with checkpoint officer in yellow hi-vis holding stop hand up and red baton in front of a red and white checkpoint barrier and officers in the background arresting someone" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/38/ContrabandPolice.webp" class="type:primaryImage" alt="Game poster of Contraband Police with checkpoint officer in yellow hi-vis holding stop hand up and red baton in front of a red and white checkpoint barrier and officers in the background arresting someone" /></p>
                 <h2>Details</h2>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
 <tbody>
@@ -173,21 +173,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/crysis-remastered/"/>
-        <id>https://gamertechau.github.io/posts/crysis-remastered/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/37/crysis-remastered.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/crysis-remastered/"/>
+        <id>https://www.gamertechau.com/posts/crysis-remastered/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/37/crysis-remastered.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2024-12-13T21:30:15+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/37/crysis-remastered.webp" alt="Crysis Remastered game poster" />
+                        <img src="https://www.gamertechau.com/media/posts/37/crysis-remastered.webp" alt="Crysis Remastered game poster" />
                     Details Name Crysis Remastered Completed on 2024/12/13 Developers Crytek Publishers Crytek Playthrough&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/37/crysis-remastered.webp" class="type:primaryImage" alt="Crysis Remastered game poster" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/37/crysis-remastered.webp" class="type:primaryImage" alt="Crysis Remastered game poster" /></p>
                 <h2>Details</h2>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
 <tbody>
@@ -227,21 +227,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/cat-quest-ii/"/>
-        <id>https://gamertechau.github.io/posts/cat-quest-ii/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/35/CatQuest2.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/cat-quest-ii/"/>
+        <id>https://www.gamertechau.com/posts/cat-quest-ii/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/35/CatQuest2.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2024-12-13T17:27:29+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/35/CatQuest2.webp" alt="Cat Quest II game poster" />
+                        <img src="https://www.gamertechau.com/media/posts/35/CatQuest2.webp" alt="Cat Quest II game poster" />
                     Details Name Cat Quest II Completed on 2024/12/13 Developers The Gentlebros Publishers&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/35/CatQuest2.webp" class="type:primaryImage" alt="Cat Quest II game poster" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/35/CatQuest2.webp" class="type:primaryImage" alt="Cat Quest II game poster" /></p>
                 <h2>Details</h2>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
 <tbody>
@@ -278,21 +278,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/yakuza-kiwami-2/"/>
-        <id>https://gamertechau.github.io/posts/yakuza-kiwami-2/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/34/YakuzaKiwami2.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/yakuza-kiwami-2/"/>
+        <id>https://www.gamertechau.com/posts/yakuza-kiwami-2/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/34/YakuzaKiwami2.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2024-12-10T15:24:09+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/34/YakuzaKiwami2.webp" alt="Yakuza Kiwami 2 game poster" />
+                        <img src="https://www.gamertechau.com/media/posts/34/YakuzaKiwami2.webp" alt="Yakuza Kiwami 2 game poster" />
                     Details Name Yakuza Kiwami 2 Completed on 2024-12-10 Developers Ryu Ga Gotoku&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/34/YakuzaKiwami2.webp" class="type:primaryImage" alt="Yakuza Kiwami 2 game poster" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/34/YakuzaKiwami2.webp" class="type:primaryImage" alt="Yakuza Kiwami 2 game poster" /></p>
                 <h2>Details</h2>
 <table class="align-center" style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
 <tbody>
@@ -328,21 +328,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/phoenix-wright-ace-attorney/"/>
-        <id>https://gamertechau.github.io/posts/phoenix-wright-ace-attorney/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/33/PhoenixWrightAceAttorney.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/phoenix-wright-ace-attorney/"/>
+        <id>https://www.gamertechau.com/posts/phoenix-wright-ace-attorney/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/33/PhoenixWrightAceAttorney.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2024-11-14T18:19:00+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/33/PhoenixWrightAceAttorney.webp" alt="Game poster of Phoenix Wright: Ace Attorney" />
+                        <img src="https://www.gamertechau.com/media/posts/33/PhoenixWrightAceAttorney.webp" alt="Game poster of Phoenix Wright: Ace Attorney" />
                     Details Name Phoenix Wright: Ace Attorney Completed On 2024/11/14 Developers CAPCOM Publishers&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/33/PhoenixWrightAceAttorney.webp" class="type:primaryImage" alt="Game poster of Phoenix Wright: Ace Attorney" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/33/PhoenixWrightAceAttorney.webp" class="type:primaryImage" alt="Game poster of Phoenix Wright: Ace Attorney" /></p>
                 <h2>Details</h2>
 <table class="align-left align-center" style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
 <tbody>
@@ -379,21 +379,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/fear/"/>
-        <id>https://gamertechau.github.io/posts/fear/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/30/F.E.A.R..webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/fear/"/>
+        <id>https://www.gamertechau.com/posts/fear/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/30/F.E.A.R..webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2024-11-04T22:41:00+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/30/F.E.A.R..webp" alt="Game poster of F.E.A.R. First Encounter Assault Recon" />
+                        <img src="https://www.gamertechau.com/media/posts/30/F.E.A.R..webp" alt="Game poster of F.E.A.R. First Encounter Assault Recon" />
                     Details Name F.E.A.R. Completed On 2024/11/04 Developers Monolith Productions Publishers Warner Bros&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/30/F.E.A.R..webp" class="type:primaryImage" alt="Game poster of F.E.A.R. First Encounter Assault Recon" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/30/F.E.A.R..webp" class="type:primaryImage" alt="Game poster of F.E.A.R. First Encounter Assault Recon" /></p>
                 
     <h2 id="details">
       Details
@@ -458,21 +458,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/yakuza-kiwami/"/>
-        <id>https://gamertechau.github.io/posts/yakuza-kiwami/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/29/YakuzaKiwami1.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/yakuza-kiwami/"/>
+        <id>https://www.gamertechau.com/posts/yakuza-kiwami/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/29/YakuzaKiwami1.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2024-10-25T22:38:00+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/29/YakuzaKiwami1.webp" alt="Game poster of Yakuza Kiwami 1" />
+                        <img src="https://www.gamertechau.com/media/posts/29/YakuzaKiwami1.webp" alt="Game poster of Yakuza Kiwami 1" />
                     Details Name Yakuza Kiwami Completed On 2024/10/25 Developers Ryu Ga Gotoku Studio&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/29/YakuzaKiwami1.webp" class="type:primaryImage" alt="Game poster of Yakuza Kiwami 1" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/29/YakuzaKiwami1.webp" class="type:primaryImage" alt="Game poster of Yakuza Kiwami 1" /></p>
                 
     <h2 id="details">
       Details
@@ -530,21 +530,21 @@
         <author>
             <name>GamertechAU</name>
         </author>
-        <link href="https://gamertechau.github.io/posts/final-profit-jsm-mode/"/>
-        <id>https://gamertechau.github.io/posts/final-profit-jsm-mode/</id>
-        <media:content url="https://gamertechau.github.io/media/posts/28/FinalProfit.webp" medium="image" />
+        <link href="https://www.gamertechau.com/posts/final-profit-jsm-mode/"/>
+        <id>https://www.gamertechau.com/posts/final-profit-jsm-mode/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/28/FinalProfit.webp" medium="image" />
             <category term="Completed Games"/>
 
         <updated>2024-10-11T22:38:00+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gamertechau.github.io/media/posts/28/FinalProfit.webp" alt="Game poster of Final Profit" />
+                        <img src="https://www.gamertechau.com/media/posts/28/FinalProfit.webp" alt="Game poster of Final Profit" />
                     Details Name Final Profit: JSM Mode Completed On 2024/10/11 Developers Brent Arnold&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gamertechau.github.io/media/posts/28/FinalProfit.webp" class="type:primaryImage" alt="Game poster of Final Profit" /></p>
+                    <p><img src="https://www.gamertechau.com/media/posts/28/FinalProfit.webp" class="type:primaryImage" alt="Game poster of Final Profit" /></p>
                 
     <h2 id="details">
       Details
@@ -575,7 +575,7 @@
     </h2>
 
   <p>
-    My second playthrough of Final Profit. You can read about <a href="https://gamertechau.github.io/posts/final-profit/">the first run&nbsp;here</a>. Manabrent released the 1.2.3 update which came with a new optional roguelike game mode, Just Shop Mode(JSM). Of course, I had to give it a go.
+    My second playthrough of Final Profit. You can read about <a href="https://www.gamertechau.com/posts/final-profit/">the first run&nbsp;here</a>. Manabrent released the 1.2.3 update which came with a new optional roguelike game mode, Just Shop Mode(JSM). Of course, I had to give it a go.
   </p>
 
   <p>
