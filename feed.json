@@ -143,7 +143,7 @@
             "title": "F.E.A.R. First Encounter Assault Recon",
             "summary": "Details Name F.E.A.R. Completed On 2024/11/04 Developers Monolith Productions Publishers Warner Bros&hellip;",
             "content_html": "\n    <h2 id=\"details\">\n      Details\n    </h2>\n<div><table class=\"align-left align-center\" style=\"border-collapse: collapse; width: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Name</td>\n<td style=\"width: 49.9288%;\">F.E.A.R.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Completed On</td>\n<td style=\"width: 49.9288%;\">2024/11/04</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Developers</td>\n<td style=\"width: 49.9288%;\">Monolith Productions</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Publishers</td>\n<td style=\"width: 49.9288%;\">Warner Bros</td>\n</tr>\n</tbody>\n</table></div>\n\n    <h2 id=\"playthrough\">\n      Playthrough\n    </h2>\n\n  <p>\n    Chosen for a Halloween playthrough (and nostalgia). The tech behind the game hasn't aged too well, but the gameplay is still solid.\n  </p>\n\n  <p>\n    You play a fresh recruit of the elite First Encounter Assault Recon group that handles supernatural threats. You're tasked with investigating and stopping a violent incident involving a private military company's research program.\n  </p>\n\n  <p>\n    The mission predictably doesn't go well and the player is dragged into an increasingly dangerous story where there's more than what there seems. There's a range of weapons you can pick up during the game, however you can only hold 3 at a time. Ammo and health can be pretty limited depending on the difficulty setting.\n  </p>\n\n  <p>\n    Playing it on Linux, most of the required fixes such as widescreen support and 60 fps lock are applied automatically. Windows users however will need to hit up the PCGamingWiki for their fixes. Once you're done though, the game will run fine.\n  </p>\n\n  <p>\n    While the 'horror' aspect unfortunately didn't have the impact it did back when I first played it back in 2005, the story was still engaging and the combat AI provided a decent threat.\n  </p>\n\n  <p>\n    Fighting through the halls with limited health, soldier clones trying to kill you and psychic horrors being streamed to your brain was an enjoyable experience. I recommend a playthrough for fans of horror shooters.\n  </p>\n\n  <p>\n    Note: Both Steam and GoG versions still have active SecuRom rootkit...uh...DRM. It doesn't affect Linux, however Windows users will have SecuRom installed (but not run thanks to driver enforcement) and it wont be uninstalled when removing the game.\n  </p>",
-            "image": "https://www.gamertechau.com/media/posts/30/F.E.A.R..webp",
+            "image": "https://www.gamertechau.com/media/posts/30/F.E.A.R.webp",
             "author": {
                 "name": "GamertechAU"
             },
@@ -151,7 +151,7 @@
                    "Completed Games"
             ],
             "date_published": "2024-11-04T22:41:00+11:00",
-            "date_modified": "2024-12-30T17:49:52+11:00"
+            "date_modified": "2025-02-11T18:38:58+11:00"
         },
         {
             "id": "https://www.gamertechau.com/posts/yakuza-kiwami/",
