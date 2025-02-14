@@ -3,12 +3,65 @@
     <title>GamertechAU</title>
     <link href="https://www.gamertechau.com/feed.xml" rel="self" />
     <link href="https://www.gamertechau.com" />
-    <updated>2025-02-11T18:41:03+11:00</updated>
+    <updated>2025-02-14T16:30:35+11:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
     <id>https://www.gamertechau.com</id>
 
+    <entry>
+        <title>Slime Rancher</title>
+        <author>
+            <name>GamertechAU</name>
+        </author>
+        <link href="https://www.gamertechau.com/posts/slime-rancher/"/>
+        <id>https://www.gamertechau.com/posts/slime-rancher/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/42/SlimeRancher.webp" medium="image" />
+            <category term="Completed Games"/>
+
+        <updated>2025-02-14T16:27:26+11:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.gamertechau.com/media/posts/42/SlimeRancher.webp" alt="Game poster for Slime Rancher showing colourful slimes, a flying chicken and a girl with cyan hair holding a sci-fi cannon" />
+                    Details Name Slime Rancher Completed on 2052-02-14 Developers Monomi Park Publishers Monomi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gamertechau.com/media/posts/42/SlimeRancher.webp" class="type:primaryImage" alt="Game poster for Slime Rancher showing colourful slimes, a flying chicken and a girl with cyan hair holding a sci-fi cannon" /></p>
+                <h2>Details</h2>
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">Name</td>
+<td style="width: 49.9288%;">Slime Rancher</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Completed on</td>
+<td style="width: 49.9288%;">2052-02-14</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Developers</td>
+<td style="width: 49.9288%;">Monomi Park</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Publishers</td>
+<td style="width: 49.9288%;">Monomi Park</td>
+</tr>
+</tbody>
+</table>
+<h2>Playthrough</h2>
+<p>After playing Wolfenstein, this felt like a nice, chill game to veg out on.</p>
+<p>Slime Rancher is a fun exploration/adventure game based in the Far, Far Range, an area on a planet 1,000 light years away from Earth. As you explore you can collect different slimes, bring them back to your ranch and keep them in corrals, feeding and family-friendly breeding them to create hybrids. You then collect their 'plorts' and sell them on the market. Other uses open up as you progress.</p>
+<p>It's a sandbox game, so the objective is simply to progress your ranch and earn money while collecting limited lore scattered around the map. There are minor threats in game from the environment as well as some hostile slimes, but they don't really provide a challenge, more to add a bit to the 'life' as you explore.</p>
+<p>The player gets free reign to build up their ranch as they see fit and can eventually add cosmetics to their slimes (with a DLC adding additional cosmetics). There's multiple distinct areas to unlock to expand your ranch that favour specific types of slimes and eventual automation.</p>
+<p>The automation relies on drones you can research and construct then give them simple commands to auto-collect plorts, feed the slimes etc. In my opinion they could've been improved though. They only have enough fuel for one day of work, so each day you have to travel across your large farm to splash each drone base with water, or your slimes starve and riot, escaping their pens and creating chaos on the ranch.</p>
+<p>One major point I really disliked was the game contains one of the most restrictive stamina systems I've ever seen. Even with your stamina limit fully upgraded, you run out within seconds and as the game relies a lot on platforming using both running and a very anaemic jetpack, you regularly have to stand still and wait for your energy to recharge before you can continue. Stamina systems are designed to slow the player down so the game lasts longer, but there was no actual need for it in Slime Rancher and is just a painful annoyance. There were mods that affect it on Nexus, but none of them seem to function any more unfortunately.</p>
+<p>Performance, audio and art were all on point, with the game running perfectly with no stutters or frame drops.</p>
+<p>Overall, I recommend Slime Rancher for a chill game session however the stamina issue really was that terrible, so keep that in mind. Hopefully Slime Rancher 2 improves on it dramatically.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wolfenstein: The New Order</title>
         <author>
@@ -502,78 +555,6 @@
 
   <p>
     Note: Both Steam and GoG versions still have active SecuRom rootkit...uh...DRM. It doesn't affect Linux, however Windows users will have SecuRom installed (but not run thanks to driver enforcement) and it wont be uninstalled when removing the game.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Yakuza Kiwami</title>
-        <author>
-            <name>GamertechAU</name>
-        </author>
-        <link href="https://www.gamertechau.com/posts/yakuza-kiwami/"/>
-        <id>https://www.gamertechau.com/posts/yakuza-kiwami/</id>
-        <media:content url="https://www.gamertechau.com/media/posts/29/YakuzaKiwami1-2.webp" medium="image" />
-            <category term="Completed Games"/>
-
-        <updated>2024-10-25T22:38:00+11:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.gamertechau.com/media/posts/29/YakuzaKiwami1-2.webp" alt="Game poster of Yakuza Kiwami 1" />
-                    Details Name Yakuza Kiwami Completed On 2024/10/25 Developers Ryu Ga Gotoku Studio&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.gamertechau.com/media/posts/29/YakuzaKiwami1-2.webp" class="type:primaryImage" alt="Game poster of Yakuza Kiwami 1" /></p>
-                
-    <h2 id="details">
-      Details
-    </h2>
-<div><table class="align-left align-center" style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
-<tbody>
-<tr>
-<td style="width: 49.9288%;">Name</td>
-<td style="width: 49.9288%;">Yakuza Kiwami</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Completed On</td>
-<td style="width: 49.9288%;">2024/10/25</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Developers</td>
-<td style="width: 49.9288%;">Ryu Ga Gotoku Studio</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Publishers</td>
-<td style="width: 49.9288%;">SEGA</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-    <h2 id="playthrough">
-      Playthrough
-    </h2>
-
-  <p>
-    The second in the Yakuza series. While shorter than Yakuza 0 there's no lack of content to experience. The Yakuza Kiwami remake brings freshly recorded voice lines, upgraded graphics and engine and makes full use of it.
-  </p>
-
-  <p>
-    The main story is engaging with all the twists, turns and feels you can expect from a Ryu Ga Gotoku game. As always, the game environment of&nbsp;Kamurochō is highly detailed and accurately modelled on its real-world counterpart of&nbsp;Kabukichō.
-  </p>
-
-  <p>
-    One thing the Yakuza series excels at is filling out the world with content aside from the main story. The substories are deep with characters that matter and contribute to the world, there's tons of achievements/challenges and minigames everywhere including the staple SEGA arcades. If you want to just main the story quest you'll enjoy it, however the player is surrounded by a ton of extra content that's ready to explore.
-  </p>
-
-  <p>
-    The game runs perfectly on modern hardware. There are a few minor changes that would improve it, such as removing the long pauses after finishing combat, bumping into objects and after voice interactions with NPC's. Generally taking control from the player is less than ideal, but it doesn't interfere with the gameplay itself, just a frequent annoyance.
-  </p>
-
-  <p>
-    A Yakuza game from these devs, you're going to enjoy it. It's full of enjoyable content with stories that mean something. If you're into the Yakuza series, dive on in.
   </p>
             ]]>
         </content>
