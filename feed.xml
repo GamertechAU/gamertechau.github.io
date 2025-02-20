@@ -3,12 +3,64 @@
     <title>GamertechAU</title>
     <link href="https://www.gamertechau.com/feed.xml" rel="self" />
     <link href="https://www.gamertechau.com" />
-    <updated>2025-02-14T17:53:09+11:00</updated>
+    <updated>2025-02-20T15:34:33+11:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
     <id>https://www.gamertechau.com</id>
 
+    <entry>
+        <title>DREDGE</title>
+        <author>
+            <name>GamertechAU</name>
+        </author>
+        <link href="https://www.gamertechau.com/posts/dredge/"/>
+        <id>https://www.gamertechau.com/posts/dredge/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/43/DREDGE.webp" medium="image" />
+            <category term="Completed Games"/>
+
+        <updated>2025-02-20T15:10:41+11:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.gamertechau.com/media/posts/43/DREDGE.webp" alt="Game poster for DREDGE showing a fishing boat a lighthouse mutated fish under the water" />
+                    Details Name DREDGE Completed on 2025-02-20 Developers Black Salt Games Publishers Team&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gamertechau.com/media/posts/43/DREDGE.webp" class="type:primaryImage" alt="Game poster for DREDGE showing a fishing boat a lighthouse mutated fish under the water" /></p>
+                <h2>Details</h2>
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">Name</td>
+<td style="width: 49.9288%;">DREDGE</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Completed on</td>
+<td style="width: 49.9288%;">2025-02-20</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Developers</td>
+<td style="width: 49.9288%;">Black Salt Games</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Publishers</td>
+<td style="width: 49.9288%;">Team 17</td>
+</tr>
+</tbody>
+</table>
+<h2>Playthrough</h2>
+<p>An extremely well-made game. Played with the Pale Reach and Iron Rig DLC.</p>
+<p>In DREDGE, you play a fisherman who accepted a job as an angler for a remote island chain. A nice peaceful job...Except this is a Lovecraft game.</p>
+<p>Putter around the ocean fishing up a huge (230) range of fish in different biomes to sell for income or to fill special orders, but be back before sundown as these fish bite back. There's a ton of hidden quests hidden around the map, plenty of NPC's to talk to with stories, most of whom need your help to find various fish and items.</p>
+<p>As you explore you find or unlock upgrades to your boat, including faster, more redundant motors (you'll need em), specialised fishing equipment that can operate in more areas, more powerful lights, more cargo space, etc. You don't need all of them to complete the game, but you will need a lot.</p>
+<p>You'll also find new hungry things interested in you (BIG goober fish), and natural events that don't mix well with your boat such as water spouts. Each biome has its own hazards and all of them increase your stress, which as it gets higher seems to attract more things to you.</p>
+<p>DREDGE ran perfectly with no noticeable issues and has a Platinum rating on ProtonDB. The audio was excellent and heightened the immersion of the game and the art style fit the mood perfectly. The devs put a lot of effort into it.</p>
+<p>Highly recommend giving this a go. The DLC if you get them are best played from the early-mid game rather than saving until the end to keep it balanced. Obtained the base game from an Epic freebie.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Slime Rancher</title>
         <author>
@@ -477,85 +529,6 @@
 <p>The fifth episode was added in a later release of the original game and while enjoyable, suffered from some logic issues while looking for clues. The gameplay is based around finding contradictions in the prosecutions evidence (of which there's a lot) but unfortunately there were a number of obvious contradictions which apparently...weren't, such as photos showing different evidence to what's presented in court. If you get things wrong, then you lose 'points', indicating how sick the judge is of you, meaning correctly pointing out these 'fake' contradictions risks losing you the game.</p>
 <p>Tech-wise the game ran well, with no bugs, frame drops etc.</p>
 <p>Overall I had fun playing the game and chat enjoyed watching it and engaging with the puzzles. If you're into detective-style content like Ace Attorney then this is one to pick up.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>F.E.A.R. First Encounter Assault Recon</title>
-        <author>
-            <name>GamertechAU</name>
-        </author>
-        <link href="https://www.gamertechau.com/posts/fear/"/>
-        <id>https://www.gamertechau.com/posts/fear/</id>
-        <media:content url="https://www.gamertechau.com/media/posts/30/F.E.A.R.webp" medium="image" />
-            <category term="Completed Games"/>
-
-        <updated>2024-11-04T22:41:00+11:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.gamertechau.com/media/posts/30/F.E.A.R.webp" alt="Game poster of F.E.A.R. First Encounter Assault Recon" />
-                    Details Name F.E.A.R. Completed On 2024/11/04 Developers Monolith Productions Publishers Warner Bros&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.gamertechau.com/media/posts/30/F.E.A.R.webp" class="type:primaryImage" alt="Game poster of F.E.A.R. First Encounter Assault Recon" /></p>
-                
-    <h2 id="details">
-      Details
-    </h2>
-<div><table class="align-left align-center" style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
-<tbody>
-<tr>
-<td style="width: 49.9288%;">Name</td>
-<td style="width: 49.9288%;">F.E.A.R.</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Completed On</td>
-<td style="width: 49.9288%;">2024/11/04</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Developers</td>
-<td style="width: 49.9288%;">Monolith Productions</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Publishers</td>
-<td style="width: 49.9288%;">Warner Bros</td>
-</tr>
-</tbody>
-</table></div>
-
-    <h2 id="playthrough">
-      Playthrough
-    </h2>
-
-  <p>
-    Chosen for a Halloween playthrough (and nostalgia). The tech behind the game hasn't aged too well, but the gameplay is still solid.
-  </p>
-
-  <p>
-    You play a fresh recruit of the elite First Encounter Assault Recon group that handles supernatural threats. You're tasked with investigating and stopping a violent incident involving a private military company's research program.
-  </p>
-
-  <p>
-    The mission predictably doesn't go well and the player is dragged into an increasingly dangerous story where there's more than what there seems. There's a range of weapons you can pick up during the game, however you can only hold 3 at a time. Ammo and health can be pretty limited depending on the difficulty setting.
-  </p>
-
-  <p>
-    Playing it on Linux, most of the required fixes such as widescreen support and 60 fps lock are applied automatically. Windows users however will need to hit up the PCGamingWiki for their fixes. Once you're done though, the game will run fine.
-  </p>
-
-  <p>
-    While the 'horror' aspect unfortunately didn't have the impact it did back when I first played it back in 2005, the story was still engaging and the combat AI provided a decent threat.
-  </p>
-
-  <p>
-    Fighting through the halls with limited health, soldier clones trying to kill you and psychic horrors being streamed to your brain was an enjoyable experience. I recommend a playthrough for fans of horror shooters.
-  </p>
-
-  <p>
-    Note: Both Steam and GoG versions still have active SecuRom rootkit...uh...DRM. It doesn't affect Linux, however Windows users will have SecuRom installed (but not run thanks to driver enforcement) and it wont be uninstalled when removing the game.
-  </p>
             ]]>
         </content>
     </entry>

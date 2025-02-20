@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.gamertechau.com/posts/dredge/",
+            "url": "https://www.gamertechau.com/posts/dredge/",
+            "title": "DREDGE",
+            "summary": "Details Name DREDGE Completed on 2025-02-20 Developers Black Salt Games Publishers Team&hellip;",
+            "content_html": "<h2>Details</h2>\n<table style=\"border-collapse: collapse; width: 100%; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Name</td>\n<td style=\"width: 49.9288%;\">DREDGE</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Completed on</td>\n<td style=\"width: 49.9288%;\">2025-02-20</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Developers</td>\n<td style=\"width: 49.9288%;\">Black Salt Games</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Publishers</td>\n<td style=\"width: 49.9288%;\">Team 17</td>\n</tr>\n</tbody>\n</table>\n<h2>Playthrough</h2>\n<p>An extremely well-made game. Played with the Pale Reach and Iron Rig DLC.</p>\n<p>In DREDGE, you play a fisherman who accepted a job as an angler for a remote island chain. A nice peaceful job...Except this is a Lovecraft game.</p>\n<p>Putter around the ocean fishing up a huge (230) range of fish in different biomes to sell for income or to fill special orders, but be back before sundown as these fish bite back. There's a ton of hidden quests hidden around the map, plenty of NPC's to talk to with stories, most of whom need your help to find various fish and items.</p>\n<p>As you explore you find or unlock upgrades to your boat, including faster, more redundant motors (you'll need em), specialised fishing equipment that can operate in more areas, more powerful lights, more cargo space, etc. You don't need all of them to complete the game, but you will need a lot.</p>\n<p>You'll also find new hungry things interested in you (BIG goober fish), and natural events that don't mix well with your boat such as water spouts. Each biome has its own hazards and all of them increase your stress, which as it gets higher seems to attract more things to you.</p>\n<p>DREDGE ran perfectly with no noticeable issues and has a Platinum rating on ProtonDB. The audio was excellent and heightened the immersion of the game and the art style fit the mood perfectly. The devs put a lot of effort into it.</p>\n<p>Highly recommend giving this a go. The DLC if you get them are best played from the early-mid game rather than saving until the end to keep it balanced. Obtained the base game from an Epic freebie.</p>",
+            "image": "https://www.gamertechau.com/media/posts/43/DREDGE.webp",
+            "author": {
+                "name": "GamertechAU"
+            },
+            "tags": [
+                   "Completed Games"
+            ],
+            "date_published": "2025-02-20T15:10:41+11:00",
+            "date_modified": "2025-02-20T15:34:33+11:00"
+        },
+        {
             "id": "https://www.gamertechau.com/posts/slime-rancher/",
             "url": "https://www.gamertechau.com/posts/slime-rancher/",
             "title": "Slime Rancher",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2024-11-14T18:19:00+11:00",
             "date_modified": "2024-12-30T18:02:45+11:00"
-        },
-        {
-            "id": "https://www.gamertechau.com/posts/fear/",
-            "url": "https://www.gamertechau.com/posts/fear/",
-            "title": "F.E.A.R. First Encounter Assault Recon",
-            "summary": "Details Name F.E.A.R. Completed On 2024/11/04 Developers Monolith Productions Publishers Warner Bros&hellip;",
-            "content_html": "\n    <h2 id=\"details\">\n      Details\n    </h2>\n<div><table class=\"align-left align-center\" style=\"border-collapse: collapse; width: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Name</td>\n<td style=\"width: 49.9288%;\">F.E.A.R.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Completed On</td>\n<td style=\"width: 49.9288%;\">2024/11/04</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Developers</td>\n<td style=\"width: 49.9288%;\">Monolith Productions</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Publishers</td>\n<td style=\"width: 49.9288%;\">Warner Bros</td>\n</tr>\n</tbody>\n</table></div>\n\n    <h2 id=\"playthrough\">\n      Playthrough\n    </h2>\n\n  <p>\n    Chosen for a Halloween playthrough (and nostalgia). The tech behind the game hasn't aged too well, but the gameplay is still solid.\n  </p>\n\n  <p>\n    You play a fresh recruit of the elite First Encounter Assault Recon group that handles supernatural threats. You're tasked with investigating and stopping a violent incident involving a private military company's research program.\n  </p>\n\n  <p>\n    The mission predictably doesn't go well and the player is dragged into an increasingly dangerous story where there's more than what there seems. There's a range of weapons you can pick up during the game, however you can only hold 3 at a time. Ammo and health can be pretty limited depending on the difficulty setting.\n  </p>\n\n  <p>\n    Playing it on Linux, most of the required fixes such as widescreen support and 60 fps lock are applied automatically. Windows users however will need to hit up the PCGamingWiki for their fixes. Once you're done though, the game will run fine.\n  </p>\n\n  <p>\n    While the 'horror' aspect unfortunately didn't have the impact it did back when I first played it back in 2005, the story was still engaging and the combat AI provided a decent threat.\n  </p>\n\n  <p>\n    Fighting through the halls with limited health, soldier clones trying to kill you and psychic horrors being streamed to your brain was an enjoyable experience. I recommend a playthrough for fans of horror shooters.\n  </p>\n\n  <p>\n    Note: Both Steam and GoG versions still have active SecuRom rootkit...uh...DRM. It doesn't affect Linux, however Windows users will have SecuRom installed (but not run thanks to driver enforcement) and it wont be uninstalled when removing the game.\n  </p>",
-            "image": "https://www.gamertechau.com/media/posts/30/F.E.A.R.webp",
-            "author": {
-                "name": "GamertechAU"
-            },
-            "tags": [
-                   "Completed Games"
-            ],
-            "date_published": "2024-11-04T22:41:00+11:00",
-            "date_modified": "2025-02-11T18:41:03+11:00"
         }
     ]
 }
