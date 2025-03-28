@@ -3,12 +3,63 @@
     <title>GamertechAU</title>
     <link href="https://www.gamertechau.com/feed.xml" rel="self" />
     <link href="https://www.gamertechau.com" />
-    <updated>2025-03-21T17:10:12+11:00</updated>
+    <updated>2025-03-28T16:50:51+11:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
     <id>https://www.gamertechau.com</id>
 
+    <entry>
+        <title>Crime Scene Cleaner</title>
+        <author>
+            <name>GamertechAU</name>
+        </author>
+        <link href="https://www.gamertechau.com/posts/crime-scene-cleaner/"/>
+        <id>https://www.gamertechau.com/posts/crime-scene-cleaner/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/46/Crime-Scene-Cleaner.webp" medium="image" />
+            <category term="Completed Games"/>
+
+        <updated>2025-03-28T16:01:04+11:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.gamertechau.com/media/posts/46/Crime-Scene-Cleaner.webp" alt="Game poster for Crime Scene Cleaner showing a man pulling on yellow gloves with cleaning equipment" />
+                    Details Name Crime Scene Cleaner Completed on 2025-03-28 Developers President Studio Publishers&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gamertechau.com/media/posts/46/Crime-Scene-Cleaner.webp" class="type:primaryImage" alt="Game poster for Crime Scene Cleaner showing a man pulling on yellow gloves with cleaning equipment" /></p>
+                <h2>Details</h2>
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">Name</td>
+<td style="width: 49.9288%;">Crime Scene Cleaner</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Completed on</td>
+<td style="width: 49.9288%;">2025-03-28</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Developers</td>
+<td style="width: 49.9288%;">President Studio</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Publishers</td>
+<td style="width: 49.9288%;">President Studio / PlayWay S.A.</td>
+</tr>
+</tbody>
+</table>
+<h2>Playthrough</h2>
+<p>Crime Scene Cleaner is a fun and chill game. You play a father employed as an underpaid high-school janitor who desperately needs an additional income source to pay for his daughters specialist (US) medical bills as the insurance company sure wont.</p>
+<p>Doing a quick job helping out a 'friend' leads to a high-paying but extremely risky career cleaning up crime scenes and destroying evidence for a brutal mob leader. After 'Big Jim' is finished making a mess, your job is to go in, clean up the blood, bullet casings and of course bodies, clean and reposition all the furniture and remove any evidence of criminal activity at the site. Also any valuables as their previous owners no longer need them and you've got bills to pay.</p>
+<p>As you progress, you earn skill points to unlock new tools and upgrades. You can leave maps partially completed, however the better the job you do, the more skill points you earn. Each map contains music tapes that unlock an in-game track and multiple secret areas with bonus loot and often an interesting story element. Once a map's completed, you can easily go back and do it again to find missed secrets and benefit from equipment upgrades.</p>
+<p>I don't believe there's any failure state for the game as just completing the primary objectives on each map is enough to progress, though you will of course miss the completion bonus.</p>
+<p>Tech-wise the game ran perfectly with no graphical, audio or performance issues and has a platinum rating on ProtonDB. The devs also took care of a pet peeve of mine and defaulted the audio to 50%, instead of blasting players with 100% volume.</p>
+<p>If you're after a chill (and slightly creepy) cleaning sim, I definitely recommend Crime Scene Cleaner. The play through took 11 hours. Also, you can pat the doggo.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Conker&#x27;s Bad Fur Day</title>
         <author>
@@ -483,57 +534,6 @@
 <p>The destructible buildings are also pretty extreme now. A few pistol bullets, or just the player walking into a wall and the building collapses. Violently. No force required. As a bonus, the game sometimes fails to render enemies, meaning you're getting shot by invisible soldiers.</p>
 <p>After the first stream of it, I went back and played the OG Crysis. While not perfect of course, none of these problems existed.</p>
 <p>While the graphics are pretty as expected (except faces which are noticeably worse), the game itself was not finished before release and contains critical gameplay and design bugs and it's unknown at the time of writing whether they'll be fixed. Right now, I can't recommend purchasing it, especially if you own the original.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cat Quest II</title>
-        <author>
-            <name>GamertechAU</name>
-        </author>
-        <link href="https://www.gamertechau.com/posts/cat-quest-ii/"/>
-        <id>https://www.gamertechau.com/posts/cat-quest-ii/</id>
-        <media:content url="https://www.gamertechau.com/media/posts/35/CatQuest2.webp" medium="image" />
-            <category term="Completed Games"/>
-
-        <updated>2024-12-13T17:27:29+11:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.gamertechau.com/media/posts/35/CatQuest2.webp" alt="Cat Quest II game poster" />
-                    Details Name Cat Quest II Completed on 2024/12/13 Developers The Gentlebros Publishers&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.gamertechau.com/media/posts/35/CatQuest2.webp" class="type:primaryImage" alt="Cat Quest II game poster" /></p>
-                <h2>Details</h2>
-<table style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
-<tbody>
-<tr>
-<td style="width: 49.9288%;">Name</td>
-<td style="width: 49.9288%;">Cat Quest II</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Completed on</td>
-<td style="width: 49.9288%;">2024/12/13</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Developers</td>
-<td style="width: 49.9288%;">The Gentlebros</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Publishers</td>
-<td style="width: 49.9288%;">Kepler Interactive</td>
-</tr>
-</tbody>
-</table>
-<h2>Playthrough</h2>
-<p>Cat Quest II is a cute RPG where you play as a cat and dog royalty called to a world to defeat the evil kings and reclaim the land amidst a whole lotta cat/dog puns. It has optional co-op but I played solo for this playthrough.</p>
-<p>You pounce around the open world map fighting enemies tag-teaming between the characters. The inactive character fights beside you as a secondary. As you explore you encounter chests holding new gear, or levels for existing gear as well as gold needed for upgrades. NPC's will also have side quests available with fun little stories and of course more puns.</p>
-<p>As you play you unlock new armour and weapons all with different buffs to let you build your characters to suit your playstyle. You also can discover many different magic spells, being able to equip four at a time per character. The secondary character will use their spells automatically, though not always effectively.</p>
-<p>As above, upgrading your gear and magic takes gold. A lot of it. While you can easily complete the game just from what you earn through normal gameplay, if you're a completionist, maxing out your gear will take a LOT of grinding.</p>
-<p>Tech-wise the game ran extremely well with no graphical or performance issues however I had problems with the controller keybinds using my Xbox Elite. B is the interact button, however weirdly it also doubled as the dodge button which isn't intended. Talking to a quest giver causes you to roll away from them, and if you're too far away then the conversation freezes, preventing any further action in the game until you restart it. The game does allow keyboard rebinding, but not controller.</p>
-<p>It's a fun game to explore by yourself or with friends. Apparently the controller issue was unusual, so don't expect to encounter it yourself. I got this game as an Epic freebie, however it's available on Steam as well, grab that bundle discount for all three games.</p>
             ]]>
         </content>
     </entry>
