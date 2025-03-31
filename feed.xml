@@ -3,12 +3,63 @@
     <title>GamertechAU</title>
     <link href="https://www.gamertechau.com/feed.xml" rel="self" />
     <link href="https://www.gamertechau.com" />
-    <updated>2025-03-28T16:50:51+11:00</updated>
+    <updated>2025-03-31T16:39:14+11:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
     <id>https://www.gamertechau.com</id>
 
+    <entry>
+        <title>Lost in Play</title>
+        <author>
+            <name>GamertechAU</name>
+        </author>
+        <link href="https://www.gamertechau.com/posts/lost-in-play/"/>
+        <id>https://www.gamertechau.com/posts/lost-in-play/</id>
+        <media:content url="https://www.gamertechau.com/media/posts/47/LostInPlay.webp" medium="image" />
+            <category term="Completed Games"/>
+
+        <updated>2025-03-31T16:38:35+11:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.gamertechau.com/media/posts/47/LostInPlay.webp" alt="Game poster for Lost in Play showing two children riding a giant beetle in front of a fantasy background" />
+                    Details Name Lost in Play Completed on 2025-03-31 Developers Happy Juice Games&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.gamertechau.com/media/posts/47/LostInPlay.webp" class="type:primaryImage" alt="Game poster for Lost in Play showing two children riding a giant beetle in front of a fantasy background" /></p>
+                <h2>Details</h2>
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">Name</td>
+<td style="width: 49.9288%;">Lost in Play</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Completed on</td>
+<td style="width: 49.9288%;">2025-03-31</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Developers</td>
+<td style="width: 49.9288%;">Happy Juice Games</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Publishers</td>
+<td style="width: 49.9288%;">Joystick Ventures</td>
+</tr>
+</tbody>
+</table>
+<h2>Playthrough</h2>
+<p>Been meaning to play this cute little puzzle game for a while now, and glad I did as it was excellent.</p>
+<p>Lost in Play is a charming puzzle adventure game where you explore the imaginations of two siblings (Toto and Gal) as they play together, looking for a way back home. During the playthrough you'll encounter many unique characters who all have something to contribute to your adventure.</p>
+<p>As you explore different areas, you find objects and how to use them point-and-click adventure style, and complete a large range of wild puzzles and minigames to further the story with plenty of well-done references throughout it.</p>
+<p>It's completely family friendly and can be played using a controller, keyboard or mouse for easy preference and accessibility. It can also run on a potato while still having a fantastic and high quality art style.</p>
+<p>Lost in Play ran perfectly with no technical issues. One gripe was the settings were inaccessible until you actually started the play through, with volume defaulting to 100%, so its loud with no opportunity to set it to a sane level before the opening cutscene.</p>
+<p>Highly recommend giving Lost in Play a go if you're looking for a chill game that's slightly brain-melty. One playthrough took 4.8 hours on stream.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Crime Scene Cleaner</title>
         <author>
@@ -480,60 +531,6 @@
 <p>Graphically, the game uses the same art style common to PlayWay games. Not the prettiest, but clean and functional. As I progressed through the playthrough, the object culling got far more noticeable to the point I could park in front of the checkpoint's garage and it takes 10+ seconds for the garage to become visible. The collision mesh is there however so if you drive in and miss, you crash into invisible pillars.</p>
 <p>Also playing on normal difficulty, I could happily stand still and fire at the enemies with pretty much zero risk of going down. The few times they do manage to hit you, it does almost no damage and heals pretty much instantly so there was no real risk unless you decided to stand on a grenade unfortunately.</p>
 <p>Overall, I do recommend Contraband Police. It's a fun game with plenty of content, though the country really should hire more than one police officer. One person managing all this at once is problematic. One campaign playthrough on stream hit 14.2 hours so plenty of content inside.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Crysis Remastered</title>
-        <author>
-            <name>GamertechAU</name>
-        </author>
-        <link href="https://www.gamertechau.com/posts/crysis-remastered/"/>
-        <id>https://www.gamertechau.com/posts/crysis-remastered/</id>
-        <media:content url="https://www.gamertechau.com/media/posts/37/crysis-remastered.webp" medium="image" />
-            <category term="Completed Games"/>
-
-        <updated>2024-12-13T21:30:15+11:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.gamertechau.com/media/posts/37/crysis-remastered.webp" alt="Crysis Remastered game poster" />
-                    Details Name Crysis Remastered Completed on 2024/12/13 Developers Crytek Publishers Crytek Playthrough&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.gamertechau.com/media/posts/37/crysis-remastered.webp" class="type:primaryImage" alt="Crysis Remastered game poster" /></p>
-                <h2>Details</h2>
-<table style="border-collapse: collapse; width: 100%; border-style: none;" border="1">
-<tbody>
-<tr>
-<td style="width: 49.9288%;">Name</td>
-<td style="width: 49.9288%;">Crysis Remastered</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Completed on</td>
-<td style="width: 49.9288%;">2024/12/13</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Developers</td>
-<td style="width: 49.9288%;">Crytek</td>
-</tr>
-<tr>
-<td style="width: 49.9288%;">Publishers</td>
-<td style="width: 49.9288%;">Crytek</td>
-</tr>
-</tbody>
-</table>
-<h2>Playthrough</h2>
-<p>The meme game remastered, the Crysis re-release amps up the graphic quality, adds limited raytracing and does it in a pretty smooth-running package. However, there's no shortage of issues and cut corners in this release.</p>
-<p>Crysis involves you and your special ops team wearing advanced power armour deploying to a remote island to locate and extract some archaeologists who called for emergency support. Obviously, things don't go as planned and the place goes to heck.</p>
-<p>While the game itself runs well and the remaster content is actually remastered, most of the games' settings don't get saved to config. They reset to default every time you restart the game or re-open the settings menu. That includes the ever-present motion blur that studios refuse to get rid of defaulting to enabled.</p>
-<p>There's also a popup every time you launch the game warning about raytracing being disabled due to an incompatible driver as instead of checking for supported features which is best practice, or checking for a minimum driver version, they seem to have just whitelisted the latest driver of the time and any before or after that gets a warning. Also, despite the warning, raytracing doesn't actually get disabled, so even that doesn't work.</p>
-<p>Add to that, the enemy AI is...terrible. If the enemy aren't shooting at you, they're likely running around in circles, running into a wall or standing completely immobile, refusing to react to your presence until you shoot them. Throw a grenade and they call it out, however instead of running they stand still or cluster towards where it landed.</p>
-<p>The enjoyable stealth mechanics from the original Crysis no longer function. If you're not using the suit's cloaking mode, then the enemy sees you. Spend a few minutes slowly walking up behind a rock for a nice ambush location on unsuspecting enemies? Decloak and instantly "There! Shoot him!" with no sound or line of sight. As a stealthy boi, this is pretty game-breaking.</p>
-<p>The destructible buildings are also pretty extreme now. A few pistol bullets, or just the player walking into a wall and the building collapses. Violently. No force required. As a bonus, the game sometimes fails to render enemies, meaning you're getting shot by invisible soldiers.</p>
-<p>After the first stream of it, I went back and played the OG Crysis. While not perfect of course, none of these problems existed.</p>
-<p>While the graphics are pretty as expected (except faces which are noticeably worse), the game itself was not finished before release and contains critical gameplay and design bugs and it's unknown at the time of writing whether they'll be fixed. Right now, I can't recommend purchasing it, especially if you own the original.</p>
             ]]>
         </content>
     </entry>

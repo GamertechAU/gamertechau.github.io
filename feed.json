@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.gamertechau.com/posts/lost-in-play/",
+            "url": "https://www.gamertechau.com/posts/lost-in-play/",
+            "title": "Lost in Play",
+            "summary": "Details Name Lost in Play Completed on 2025-03-31 Developers Happy Juice Games&hellip;",
+            "content_html": "<h2>Details</h2>\n<table style=\"border-collapse: collapse; width: 100%; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Name</td>\n<td style=\"width: 49.9288%;\">Lost in Play</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Completed on</td>\n<td style=\"width: 49.9288%;\">2025-03-31</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Developers</td>\n<td style=\"width: 49.9288%;\">Happy Juice Games</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Publishers</td>\n<td style=\"width: 49.9288%;\">Joystick Ventures</td>\n</tr>\n</tbody>\n</table>\n<h2>Playthrough</h2>\n<p>Been meaning to play this cute little puzzle game for a while now, and glad I did as it was excellent.</p>\n<p>Lost in Play is a charming puzzle adventure game where you explore the imaginations of two siblings (Toto and Gal) as they play together, looking for a way back home. During the playthrough you'll encounter many unique characters who all have something to contribute to your adventure.</p>\n<p>As you explore different areas, you find objects and how to use them point-and-click adventure style, and complete a large range of wild puzzles and minigames to further the story with plenty of well-done references throughout it.</p>\n<p>It's completely family friendly and can be played using a controller, keyboard or mouse for easy preference and accessibility. It can also run on a potato while still having a fantastic and high quality art style.</p>\n<p>Lost in Play ran perfectly with no technical issues. One gripe was the settings were inaccessible until you actually started the play through, with volume defaulting to 100%, so its loud with no opportunity to set it to a sane level before the opening cutscene.</p>\n<p>Highly recommend giving Lost in Play a go if you're looking for a chill game that's slightly brain-melty. One playthrough took 4.8 hours on stream.</p>",
+            "image": "https://www.gamertechau.com/media/posts/47/LostInPlay.webp",
+            "author": {
+                "name": "GamertechAU"
+            },
+            "tags": [
+                   "Completed Games"
+            ],
+            "date_published": "2025-03-31T16:38:35+11:00",
+            "date_modified": "2025-03-31T16:39:14+11:00"
+        },
+        {
             "id": "https://www.gamertechau.com/posts/crime-scene-cleaner/",
             "url": "https://www.gamertechau.com/posts/crime-scene-cleaner/",
             "title": "Crime Scene Cleaner",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2025-01-10T16:28:47+11:00",
             "date_modified": "2025-01-10T17:12:37+11:00"
-        },
-        {
-            "id": "https://www.gamertechau.com/posts/crysis-remastered/",
-            "url": "https://www.gamertechau.com/posts/crysis-remastered/",
-            "title": "Crysis Remastered",
-            "summary": "Details Name Crysis Remastered Completed on 2024/12/13 Developers Crytek Publishers Crytek Playthrough&hellip;",
-            "content_html": "<h2>Details</h2>\n<table style=\"border-collapse: collapse; width: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Name</td>\n<td style=\"width: 49.9288%;\">Crysis Remastered</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Completed on</td>\n<td style=\"width: 49.9288%;\">2024/12/13</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Developers</td>\n<td style=\"width: 49.9288%;\">Crytek</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Publishers</td>\n<td style=\"width: 49.9288%;\">Crytek</td>\n</tr>\n</tbody>\n</table>\n<h2>Playthrough</h2>\n<p>The meme game remastered, the Crysis re-release amps up the graphic quality, adds limited raytracing and does it in a pretty smooth-running package. However, there's no shortage of issues and cut corners in this release.</p>\n<p>Crysis involves you and your special ops team wearing advanced power armour deploying to a remote island to locate and extract some archaeologists who called for emergency support. Obviously, things don't go as planned and the place goes to heck.</p>\n<p>While the game itself runs well and the remaster content is actually remastered, most of the games' settings don't get saved to config. They reset to default every time you restart the game or re-open the settings menu. That includes the ever-present motion blur that studios refuse to get rid of defaulting to enabled.</p>\n<p>There's also a popup every time you launch the game warning about raytracing being disabled due to an incompatible driver as instead of checking for supported features which is best practice, or checking for a minimum driver version, they seem to have just whitelisted the latest driver of the time and any before or after that gets a warning. Also, despite the warning, raytracing doesn't actually get disabled, so even that doesn't work.</p>\n<p>Add to that, the enemy AI is...terrible. If the enemy aren't shooting at you, they're likely running around in circles, running into a wall or standing completely immobile, refusing to react to your presence until you shoot them. Throw a grenade and they call it out, however instead of running they stand still or cluster towards where it landed.</p>\n<p>The enjoyable stealth mechanics from the original Crysis no longer function. If you're not using the suit's cloaking mode, then the enemy sees you. Spend a few minutes slowly walking up behind a rock for a nice ambush location on unsuspecting enemies? Decloak and instantly \"There! Shoot him!\" with no sound or line of sight. As a stealthy boi, this is pretty game-breaking.</p>\n<p>The destructible buildings are also pretty extreme now. A few pistol bullets, or just the player walking into a wall and the building collapses. Violently. No force required. As a bonus, the game sometimes fails to render enemies, meaning you're getting shot by invisible soldiers.</p>\n<p>After the first stream of it, I went back and played the OG Crysis. While not perfect of course, none of these problems existed.</p>\n<p>While the graphics are pretty as expected (except faces which are noticeably worse), the game itself was not finished before release and contains critical gameplay and design bugs and it's unknown at the time of writing whether they'll be fixed. Right now, I can't recommend purchasing it, especially if you own the original.</p>",
-            "image": "https://www.gamertechau.com/media/posts/37/crysis-remastered.webp",
-            "author": {
-                "name": "GamertechAU"
-            },
-            "tags": [
-                   "Completed Games"
-            ],
-            "date_published": "2024-12-13T21:30:15+11:00",
-            "date_modified": "2024-12-16T17:34:27+11:00"
         }
     ]
 }
