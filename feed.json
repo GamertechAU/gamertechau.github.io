@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.gamertechau.com/posts/elroy-and-the-aliens/",
+            "url": "https://www.gamertechau.com/posts/elroy-and-the-aliens/",
+            "title": "Elroy and the Aliens",
+            "summary": "Details Name Elroy and the Aliens Completed on 2025-04-07 Developers Motiviti Publishers&hellip;",
+            "content_html": "<h2>Details</h2>\n<table style=\"border-collapse: collapse; width: 100%; border-style: hidden;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Name</td>\n<td style=\"width: 49.9288%;\">Elroy and the Aliens</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Completed on</td>\n<td style=\"width: 49.9288%;\">2025-04-07</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Developers</td>\n<td style=\"width: 49.9288%;\">Motiviti</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Publishers</td>\n<td style=\"width: 49.9288%;\">Motiviti</td>\n</tr>\n</tbody>\n</table>\n<h2>Playthrough</h2>\n<p>After first being introduced to Elroy and the Aliens by the developers on Bluesky, I had to play it. Point-and-click adventure games aren't usually my thing (though I have played a fair few), but this looked fun and the demo cemented it.</p>\n<p>In Elroy and the Aliens you play Elroy, a young engineer/inventor and Peggy, an investigative reporter initially there to interview him. After a technical demonstration goes awry, the two begin an adventure that will take them across Earth and beyond to rescue Elroy's long-lost father.</p>\n<p>The story and progression is very well done, and the humour throughout is excellent. Some of the steps required to progress took me a little bit, but they're all logical and the game is pretty good at telling you what people need, just need to remember them.</p>\n<p>The point-and-click mechanics are the usual system. The player searches scenes for needed items, talks to characters for information and can combine several items to achieve the goal. If you need it, there's a hotkey to highlight areas in the scene you can interact with, though there's an achievement for not using it throughout the play through.</p>\n<p>There's a ton of secrets and challenge achievements to unlock, multiple endings and plenty of puzzles to figure out.</p>\n<p>The game ran perfectly out of the box with no noticeable bugs and even had a native Linux client. The graphics were excellent, hand drawn to extremely high detail and the audio was on point.</p>\n<p>If you're a fan of point-and-click adventure games this is definitely a game to consider. One ending with definitely not finding all the secrets and achievements took 8.6 hours on stream.</p>",
+            "image": "https://www.gamertechau.com/media/posts/48/Elroy_and_the_Aliens.webp",
+            "author": {
+                "name": "GamertechAU"
+            },
+            "tags": [
+                   "Completed Games"
+            ],
+            "date_published": "2025-04-07T16:03:16+10:00",
+            "date_modified": "2025-04-07T16:03:16+10:00"
+        },
+        {
             "id": "https://www.gamertechau.com/posts/lost-in-play/",
             "url": "https://www.gamertechau.com/posts/lost-in-play/",
             "title": "Lost in Play",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2025-01-27T17:09:21+11:00",
             "date_modified": "2025-01-27T19:23:44+11:00"
-        },
-        {
-            "id": "https://www.gamertechau.com/posts/contraband-police/",
-            "url": "https://www.gamertechau.com/posts/contraband-police/",
-            "title": "Contraband Police",
-            "summary": "Details Name Contraband Police Completed on 2025-01-25 Developers Crazy Rocks Publishers PlayWay&hellip;",
-            "content_html": "<h2>Details</h2>\n<table style=\"border-collapse: collapse; width: 100%; border-style: none;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Name</td>\n<td style=\"width: 49.9288%;\">Contraband Police</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Completed on</td>\n<td style=\"width: 49.9288%;\">2025-01-25</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Developers</td>\n<td style=\"width: 49.9288%;\">Crazy Rocks</td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\">Publishers</td>\n<td style=\"width: 49.9288%;\">PlayWay S.A.</td>\n</tr>\n</tbody>\n</table>\n<h2>Playthrough</h2>\n<p>Contraband Police is a fun jank game. The good kind of jank, not the broken mess type.</p>\n<p>We played through the campaign mode on stream, working as a very underpaid police commander in charge of seemingly the only border checkpoint into the country ruled by a brutal dictatorship.</p>\n<p>The main objective is to inspect vehicles and people coming into the country, ensure their paperwork is legit and they're not smuggling contraband. As you progress, story events happen to the country that affect what you need to look out for such as vehicle defects and forged documents, people coming from countries your bosses don't like and those pesky teachers and journalists...</p>\n<p>If that's not enough, you also have to leave your post to transport seized contraband and prisoners across the country to storage or the labour camp where you have a (pretty much guaranteed) chance of getting ambushed by rebels on the road. Have to randomly leave to investigate crimes, intercept contraband drops with infinite waves of enemies (with no backup) etc. Plus you get intermittent rebel raids on the checkpoint forcing you to defend it (with backup).</p>\n<p>During the game you can make choices to support the government or the rebels, guiding the story to one of the endings. There's also border crossers with urgent issues such as family emergencies, but almost always have invalid documents/vehicles. Whatever you choose with these, you get a letter either thanking or threatening you. You can choose to let them through, but apparently the government magically inspects their documents after they go through and fine you for it (though still lets them go). If you get anything wrong in an inspection, they fine you an amount depending on your level.</p>\n<p>That brings us to the issues. One of them is an annoying bug with the vehicle defect system where you can look all over it and find absolutely everything wrong with it, and the audit says you missed something and fines you for it. For instance, if a vehicle has a front bumper and missing the rear one, you enter one bumper missing and the audit says two, or missing a body panel when the vehicle doesn't have any panels to be missing.</p>\n<p>There's four choices of vehicles with different specialities such as speed or cargo transport. The fastest car seemed to have a collision mesh issue especially noticeable on dirt roads which made it really unstable, though not uncontrollable. The other vehicles were more stable.</p>\n<p>As well as the campaign, there's two other game modes available, one a sandbox with no time limit, so just freeplay, the other is a challenge mode where you compete against other players on a leaderboard.</p>\n<p>Graphically, the game uses the same art style common to PlayWay games. Not the prettiest, but clean and functional. As I progressed through the playthrough, the object culling got far more noticeable to the point I could park in front of the checkpoint's garage and it takes 10+ seconds for the garage to become visible. The collision mesh is there however so if you drive in and miss, you crash into invisible pillars.</p>\n<p>Also playing on normal difficulty, I could happily stand still and fire at the enemies with pretty much zero risk of going down. The few times they do manage to hit you, it does almost no damage and heals pretty much instantly so there was no real risk unless you decided to stand on a grenade unfortunately.</p>\n<p>Overall, I do recommend Contraband Police. It's a fun game with plenty of content, though the country really should hire more than one police officer. One person managing all this at once is problematic. One campaign playthrough on stream hit 14.2 hours so plenty of content inside.</p>",
-            "image": "https://www.gamertechau.com/media/posts/38/ContrabandPolice.webp",
-            "author": {
-                "name": "GamertechAU"
-            },
-            "tags": [
-                   "Completed Games"
-            ],
-            "date_published": "2025-01-10T16:28:47+11:00",
-            "date_modified": "2025-01-10T17:12:37+11:00"
         }
     ]
 }
