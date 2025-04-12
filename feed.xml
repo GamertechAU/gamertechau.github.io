@@ -3,7 +3,7 @@
     <title>GamertechAU</title>
     <link href="https://www.gamertechau.com/feed.xml" rel="self" />
     <link href="https://www.gamertechau.com" />
-    <updated>2025-04-12T11:49:13+10:00</updated>
+    <updated>2025-04-12T16:44:35+10:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://www.gamertechau.com/posts/elroy-and-the-aliens/"/>
         <id>https://www.gamertechau.com/posts/elroy-and-the-aliens/</id>
         <media:content url="https://www.gamertechau.com/media/posts/48/Elroy_and_the_Aliens.webp" medium="image" />
+            <category term="Indie"/>
             <category term="Completed Games"/>
 
         <updated>2025-04-07T16:03:16+10:00</updated>
@@ -69,6 +70,7 @@
         <link href="https://www.gamertechau.com/posts/lost-in-play/"/>
         <id>https://www.gamertechau.com/posts/lost-in-play/</id>
         <media:content url="https://www.gamertechau.com/media/posts/47/LostInPlay.webp" medium="image" />
+            <category term="Indie"/>
             <category term="Completed Games"/>
 
         <updated>2025-03-31T16:38:35+11:00</updated>
@@ -120,6 +122,7 @@
         <link href="https://www.gamertechau.com/posts/crime-scene-cleaner/"/>
         <id>https://www.gamertechau.com/posts/crime-scene-cleaner/</id>
         <media:content url="https://www.gamertechau.com/media/posts/46/Crime-Scene-Cleaner.webp" medium="image" />
+            <category term="Indie"/>
             <category term="Completed Games"/>
 
         <updated>2025-03-28T16:01:04+11:00</updated>
@@ -223,6 +226,7 @@
         <id>https://www.gamertechau.com/posts/like-a-dragon-pirate-yakuza-in-hawaii/</id>
         <media:content url="https://www.gamertechau.com/media/posts/44/like-a-dragon-pirate-yakuza.webp" medium="image" />
             <category term="Completed Games"/>
+            <category term="Beat em Up"/>
 
         <updated>2025-03-17T14:23:00+11:00</updated>
             <summary>
@@ -276,6 +280,7 @@
         <link href="https://www.gamertechau.com/posts/dredge/"/>
         <id>https://www.gamertechau.com/posts/dredge/</id>
         <media:content url="https://www.gamertechau.com/media/posts/43/DREDGE.webp" medium="image" />
+            <category term="Indie"/>
             <category term="Completed Games"/>
 
         <updated>2025-02-20T15:10:41+11:00</updated>
@@ -329,6 +334,7 @@
         <link href="https://www.gamertechau.com/posts/slime-rancher/"/>
         <id>https://www.gamertechau.com/posts/slime-rancher/</id>
         <media:content url="https://www.gamertechau.com/media/posts/42/SlimeRancher.webp" medium="image" />
+            <category term="Indie"/>
             <category term="Completed Games"/>
 
         <updated>2025-02-14T16:27:26+11:00</updated>
@@ -436,6 +442,7 @@
         <id>https://www.gamertechau.com/posts/yakuza-3-remastered/</id>
         <media:content url="https://www.gamertechau.com/media/posts/40/Yakuza3Remastered.webp" medium="image" />
             <category term="Completed Games"/>
+            <category term="Beat em Up"/>
 
         <updated>2025-01-31T18:25:56+11:00</updated>
             <summary>
@@ -487,6 +494,7 @@
         <link href="https://www.gamertechau.com/posts/cat-detective-albert-wilde/"/>
         <id>https://www.gamertechau.com/posts/cat-detective-albert-wilde/</id>
         <media:content url="https://www.gamertechau.com/media/posts/39/CatDetectiveAlbertWilde.webp" medium="image" />
+            <category term="Indie"/>
             <category term="Completed Games"/>
 
         <updated>2025-01-27T17:09:21+11:00</updated>

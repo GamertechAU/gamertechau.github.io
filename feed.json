@@ -20,10 +20,11 @@
                 "name": "GamertechAU"
             },
             "tags": [
+                   "Indie",
                    "Completed Games"
             ],
             "date_published": "2025-04-07T16:03:16+10:00",
-            "date_modified": "2025-04-12T11:49:13+10:00"
+            "date_modified": "2025-04-12T16:43:50+10:00"
         },
         {
             "id": "https://www.gamertechau.com/posts/lost-in-play/",
@@ -36,10 +37,11 @@
                 "name": "GamertechAU"
             },
             "tags": [
+                   "Indie",
                    "Completed Games"
             ],
             "date_published": "2025-03-31T16:38:35+11:00",
-            "date_modified": "2025-03-31T16:39:14+11:00"
+            "date_modified": "2025-04-12T16:43:55+10:00"
         },
         {
             "id": "https://www.gamertechau.com/posts/crime-scene-cleaner/",
@@ -52,10 +54,11 @@
                 "name": "GamertechAU"
             },
             "tags": [
+                   "Indie",
                    "Completed Games"
             ],
             "date_published": "2025-03-28T16:01:04+11:00",
-            "date_modified": "2025-03-28T16:50:51+11:00"
+            "date_modified": "2025-04-12T16:44:00+10:00"
         },
         {
             "id": "https://www.gamertechau.com/posts/conkers-bad-fur-day/",
@@ -84,10 +87,11 @@
                 "name": "GamertechAU"
             },
             "tags": [
-                   "Completed Games"
+                   "Completed Games",
+                   "Beat em Up"
             ],
             "date_published": "2025-03-17T14:23:00+11:00",
-            "date_modified": "2025-03-18T22:00:24+11:00"
+            "date_modified": "2025-04-12T16:44:08+10:00"
         },
         {
             "id": "https://www.gamertechau.com/posts/dredge/",
@@ -100,10 +104,11 @@
                 "name": "GamertechAU"
             },
             "tags": [
+                   "Indie",
                    "Completed Games"
             ],
             "date_published": "2025-02-20T15:10:41+11:00",
-            "date_modified": "2025-02-20T15:38:47+11:00"
+            "date_modified": "2025-04-12T16:44:17+10:00"
         },
         {
             "id": "https://www.gamertechau.com/posts/slime-rancher/",
@@ -116,10 +121,11 @@
                 "name": "GamertechAU"
             },
             "tags": [
+                   "Indie",
                    "Completed Games"
             ],
             "date_published": "2025-02-14T16:27:26+11:00",
-            "date_modified": "2025-02-14T17:53:09+11:00"
+            "date_modified": "2025-04-12T16:44:22+10:00"
         },
         {
             "id": "https://www.gamertechau.com/posts/wolfenstein-the-new-order/",
@@ -148,10 +154,11 @@
                 "name": "GamertechAU"
             },
             "tags": [
-                   "Completed Games"
+                   "Completed Games",
+                   "Beat em Up"
             ],
             "date_published": "2025-01-31T18:25:56+11:00",
-            "date_modified": "2025-01-31T18:57:31+11:00"
+            "date_modified": "2025-04-12T16:44:28+10:00"
         },
         {
             "id": "https://www.gamertechau.com/posts/cat-detective-albert-wilde/",
@@ -164,10 +171,11 @@
                 "name": "GamertechAU"
             },
             "tags": [
+                   "Indie",
                    "Completed Games"
             ],
             "date_published": "2025-01-27T17:09:21+11:00",
-            "date_modified": "2025-01-27T19:23:44+11:00"
+            "date_modified": "2025-04-12T16:44:35+10:00"
         }
     ]
 }
