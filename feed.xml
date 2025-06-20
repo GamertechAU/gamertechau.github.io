@@ -3,7 +3,7 @@
     <title>GamertechAU</title>
     <link href="https://www.gamertechau.com/feed.xml" rel="self" />
     <link href="https://www.gamertechau.com" />
-    <updated>2025-06-20T16:19:34+10:00</updated>
+    <updated>2025-06-20T16:43:57+10:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
@@ -18,6 +18,7 @@
         <id>https://www.gamertechau.com/posts/duck-detective-the-ghost-of-glamping/</id>
         <media:content url="https://www.gamertechau.com/media/posts/53/DuckDetectiveTheGhostofGlamping.webp" medium="image" />
             <category term="Indie"/>
+            <category term="Detective"/>
             <category term="Completed Games"/>
 
         <updated>2025-06-20T16:18:15+10:00</updated>
@@ -70,6 +71,7 @@
         <id>https://www.gamertechau.com/posts/duck-detective-the-secret-salami/</id>
         <media:content url="https://www.gamertechau.com/media/posts/52/DuckDetectiveSalami.webp" medium="image" />
             <category term="Indie"/>
+            <category term="Detective"/>
             <category term="Completed Games"/>
 
         <updated>2025-06-20T15:17:24+10:00</updated>
@@ -176,6 +178,7 @@
         <link href="https://www.gamertechau.com/posts/kathy-rain-the-directors-cut/"/>
         <id>https://www.gamertechau.com/posts/kathy-rain-the-directors-cut/</id>
         <media:content url="https://www.gamertechau.com/media/posts/50/KathyRain1.webp" medium="image" />
+            <category term="Detective"/>
             <category term="Completed Games"/>
 
         <updated>2025-05-30T16:53:21+10:00</updated>
