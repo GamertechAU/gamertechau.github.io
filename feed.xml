@@ -3,7 +3,7 @@
     <title>GamertechAU</title>
     <link href="https://www.gamertechau.com/feed.xml" rel="self" />
     <link href="https://www.gamertechau.com" />
-    <updated>2025-06-20T16:43:57+10:00</updated>
+    <updated>2025-07-12T11:45:16+10:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://www.gamertechau.com/posts/duck-detective-the-ghost-of-glamping/"/>
         <id>https://www.gamertechau.com/posts/duck-detective-the-ghost-of-glamping/</id>
         <media:content url="https://www.gamertechau.com/media/posts/53/DuckDetectiveTheGhostofGlamping.webp" medium="image" />
+            <category term="Point &amp; Click"/>
             <category term="Indie"/>
             <category term="Detective"/>
             <category term="Completed Games"/>
@@ -70,6 +71,7 @@
         <link href="https://www.gamertechau.com/posts/duck-detective-the-secret-salami/"/>
         <id>https://www.gamertechau.com/posts/duck-detective-the-secret-salami/</id>
         <media:content url="https://www.gamertechau.com/media/posts/52/DuckDetectiveSalami.webp" medium="image" />
+            <category term="Point &amp; Click"/>
             <category term="Indie"/>
             <category term="Detective"/>
             <category term="Completed Games"/>
@@ -124,6 +126,7 @@
         <link href="https://www.gamertechau.com/posts/black-mesa/"/>
         <id>https://www.gamertechau.com/posts/black-mesa/</id>
         <media:content url="https://www.gamertechau.com/media/posts/51/BlackMesa.webp" medium="image" />
+            <category term="Shooter"/>
             <category term="Completed Games"/>
 
         <updated>2025-06-18T16:25:41+10:00</updated>
@@ -178,6 +181,7 @@
         <link href="https://www.gamertechau.com/posts/kathy-rain-the-directors-cut/"/>
         <id>https://www.gamertechau.com/posts/kathy-rain-the-directors-cut/</id>
         <media:content url="https://www.gamertechau.com/media/posts/50/KathyRain1.webp" medium="image" />
+            <category term="Point &amp; Click"/>
             <category term="Detective"/>
             <category term="Completed Games"/>
 
@@ -284,6 +288,7 @@
         <link href="https://www.gamertechau.com/posts/elroy-and-the-aliens/"/>
         <id>https://www.gamertechau.com/posts/elroy-and-the-aliens/</id>
         <media:content url="https://www.gamertechau.com/media/posts/48/Elroy_and_the_Aliens.webp" medium="image" />
+            <category term="Point &amp; Click"/>
             <category term="Indie"/>
             <category term="Completed Games"/>
 
@@ -337,6 +342,7 @@
         <link href="https://www.gamertechau.com/posts/lost-in-play/"/>
         <id>https://www.gamertechau.com/posts/lost-in-play/</id>
         <media:content url="https://www.gamertechau.com/media/posts/47/LostInPlay.webp" medium="image" />
+            <category term="Point &amp; Click"/>
             <category term="Indie"/>
             <category term="Completed Games"/>
 
@@ -389,6 +395,7 @@
         <link href="https://www.gamertechau.com/posts/crime-scene-cleaner/"/>
         <id>https://www.gamertechau.com/posts/crime-scene-cleaner/</id>
         <media:content url="https://www.gamertechau.com/media/posts/46/Crime-Scene-Cleaner.webp" medium="image" />
+            <category term="Simulator"/>
             <category term="Indie"/>
             <category term="Completed Games"/>
 
