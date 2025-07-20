@@ -3,7 +3,7 @@
     <title>GamertechAU</title>
     <link href="https://www.gamertechau.com/feed.xml" rel="self" />
     <link href="https://www.gamertechau.com" />
-    <updated>2025-07-20T18:47:48+10:00</updated>
+    <updated>2025-07-21T08:48:05+10:00</updated>
     <author>
         <name>GamertechAU</name>
     </author>
@@ -18,6 +18,7 @@
         <id>https://www.gamertechau.com/posts/animal-shelter-2/</id>
         <media:content url="https://www.gamertechau.com/media/posts/55/AnimalShelter2.webp" medium="image" />
             <category term="Simulator"/>
+            <category term="Indie"/>
             <category term="Completed Games"/>
             <category term="#Ad"/>
 
